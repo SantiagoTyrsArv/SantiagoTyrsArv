@@ -49,8 +49,15 @@ Bienvenido a mi espacio. No es el más lujoso, pero está levantado con ganas y 
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white">
   <img src="https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff">
   
-
 </div>
+
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantiagoTyrSArv&show_icons=true&theme=tokyonight)
+
+## Visitantes
+![Visitors](https://komarev.com/ghpvc/?username=TyrSArdev&color=blueviolet)
+
 
 
 ## Encuéntrame en:
