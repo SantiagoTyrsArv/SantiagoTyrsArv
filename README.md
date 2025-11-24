@@ -52,13 +52,10 @@ Bienvenido a mi espacio. No es el más lujoso, pero está levantado con ganas y 
 </div>
 
 ## Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantiagoTyrSArv&show_icons=true&theme=tokyonight)
 
 ## Visitantes
 ![Visitors](https://komarev.com/ghpvc/?username=TyrSArdev&color=blueviolet)
-
-
 
 ## Encuéntrame en:
 
@@ -74,10 +71,10 @@ Bienvenido a mi espacio. No es el más lujoso, pero está levantado con ganas y 
 <a href="mailto:Tyrs_Ar@protonmail.com">
   <img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff">
 </a>
-<a href="">
+<a href="https://wa.me/573503138700">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white">
 </a>
-<a href="">
+<a href="https://paypal.me/@SantiagoArevalo476">
   <img src="https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff">
 </a>
 
